@@ -9,7 +9,6 @@ function forLoop(array)
 
 function whileLoop(n)
 {
-  //var countDown = n;
   while(n > 0)
   {
     n--;
@@ -17,6 +16,7 @@ function whileLoop(n)
   }
   return 'done';
 }
+
 function maybeTrue() {
   return Math.random() >= 0.5
 }
