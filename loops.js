@@ -10,7 +10,7 @@ function forLoop(array)
 function whileLoop(n)
 {
   var countDown = n;
-  while(n > 0)
+  while(countDown > 0)
   {
     countDown--;
   }
